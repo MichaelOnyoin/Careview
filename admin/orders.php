@@ -9,7 +9,7 @@ if(isset($_GET['action']) && $_GET['action']!="" && $_GET['action']=='delete')
 $order_id=$_GET['order_id'];
 
 /*this is delet query*/
-mysqli_query($con,"delete from orders where order_id='$order_id'")or die("delete query is incorrect...");
+mysqli_query($con,"delete from ordertb where order_id='$order_id'")or die("delete query is incorrect...");
 } 
 
 ///pagination
@@ -44,7 +44,7 @@ include "topheader.php";
                     </tr></thead>
                     <tbody>
                       <?php 
-                        $result=mysqli_query($con,"select * from orders ")or die ("query 1 incorrect.....");
+                        $result=mysqli_query($con,"select * from ordertb ")or die ("query 1 incorrect.....");
 
                         while(list($order_id,$client_id,$payment_id,$payment_name,$status,$date)=mysqli_fetch_array($result))
                         {	
