@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <title>Login</title>
+    <style>
+        body{
+            background-image: url('../Careview/images/healthcare.jpg');
+        }
+    </style>
+</head>
+<body>
+    <div class="row">
+        <div class="col-md-12">
+            <div class="card">
+                <div class="card-header">
+                    <h3 >Login</h3>
+                </div>
+                <div class="card-body">
+                    <form action="http://localhost/careview/login.php" method="post" class="form-control">
+                        <img id="profile-img" class="profile-img-card" src="careviewlogo.png">
+                        <div class="form-group">
+                            <label for="email">Email address</label>
+                            <input type="email" name="email" id="email" value="" class="form-control" placeholder="Email address" required="" autofocus="">
+                            <br><span></span>
+                        </div>
+                        <div class="form-group">
+                            <label for="password">Password</label>
+                            <input type="password" name="password" id="password" class="form-control" placeholder="Password" required="">
+                            <br><span></span>
+                        </div>
+                        <button class="btn btn-warning" style="background-color:#0fe3eb;color:#fff;" type="submit" value="Login">Sign in</button>
+                        <input type="hidden" name="flag" value="2">
+                        <div id="m"></div>
+                        <p>Aren't you a Member? <a href="reg.html" data-dismiss="modal" data-toggle="modal" data-target="#myModal3" style="color:#26ba9d;">Sign up</a></p>
+                    </form>
+                </div>
+            </div>
+        </div>
+</body>
+</html>

@@ -1,0 +1,504 @@
+<footer id="footer">
+<div class="inner">
+<div class="footer_left vcard">
+<a href="https://www.caremark.co.uk/">
+<img src="https://a.site-cdn.net/a9039add29/logons.png" alt="Caremark" width="170" height="66">
+</a>
+<span class="office_name fn org"></span>
+<span class="office_number tel"></span><br>
+<span class="office_address adr"><span class="street-address"></span>
+<span class="locality"></span><span class="region"></span>&nbsp;
+<span class="postal-code"></span></span><br>
+<span class="office_email"><a class="email" href="mailto:"></a></span><br>
+</div>
+<div class="footer_right"> Find another office<br>
+<form method="post" action="https://www.caremark.co.uk/locations">
+<input name="fa" type="hidden" value="1">
+<input name="po" placeholder="ENTER YOUR POST CODE" type="text" value="" class="footer_post_code"><br>
+<input class="footer_office_search" value="FIND NOW >" type="submit">
+</form>
+</div>
+</div>
+<div class="footer_strip"><div class="fs_social">
+<a href="https://www.facebook.com/caremarkltd/" class="facebook" target="_blank"></a>
+<a href="https://twitter.com/CaremarkLtd" class="twitter" target="_blank"></a>
+<a href="https://www.linkedin.com/company/caremark-ltd" class="linkedin" target="_blank"></a>
+<a href="https://www.instagram.com/caremarkltd/" class="instagram" target="_blank"></a>
+<a href="https://www.youtube.com/channel/UCrnXYyWOI1eFt1Nmoyo23Fw" class="youtube" target="_blank"></a>
+</div>
+<div class="fs_txt"><nav id="nav_f">
+<a href="https://www.caremark.co.uk/website-accessibility" target="_top" class="menu_default02 page68 first20 rpa680">
+<span>Accessibility</span></a><a href="https://www.caremark.co.uk/sitemap" target="_top" class="menu_default02 page32 rpa320">
+<span>Sitemap</span>
+</a>
+<a href="http://www.caremarkfranchises.com/" target="_blank" class="menu_default02 page42 rpa420"><span>Franchise Opportunities</span></a>
+<a href="https://www.caremark.co.uk/privacy-policy" target="_top" class="menu_default02 page72 rpa720">
+<span>Privacy Policy</span></a>
+<div style="padding-top:20px;padding-bottom:20px;">
+<a href="http://d.site-cdn.net/a9039add29/gender-pay-gap-report-2021.pdf" target="_black" class="menu_default02 first20">
+<span> Gender Pay Gap 2021</span></a></div></nav><span>© 2022 Caremark Limited. All Rights Reserved.<br>Each Caremark Limited franchise office is independently owned and operated.</span>
+</div>
+</div>
+</footer>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<body class="">
+<div class="parallax-mirror" style="visibility: hidden; z-index: -100; position: fixed; top: 0px; left: 0px; overflow: hidden; height: 485px; width: 990px; transform: translate3d(0px, 622.5px, 0px);">
+<img class="parallax-slider" src="https://www.caremark.co.uk/files/l8cr3p.jpg" style="position: absolute; height: 583px; width: 1332px; max-width: none; transform: translate3d(-171px, -498px, 0px);">
+</div>
+<div class="parallax-mirror" style="visibility: hidden; z-index: -100; position: fixed; top: 0px; left: 0px; overflow: hidden; transform: translate3d(0px, -479px, 0px); height: 485px; width: 990px;"><img class="parallax-slider" src="https://b.site-cdn.net/a9039add29/1920-1200-975a0a-ce-6437-homebanner2.jpg" style="transform: translate3d(0px, 237.2px, 0px); position: absolute; height: 618px; width: 990px; max-width: none;">
+</div>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P4RH2NZ"height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-785546534"></script><script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-785546534'); </script><header id="header"><div class="inner"><div class="header_left"><a href="https://www.caremark.co.uk/"><img src="https://a.site-cdn.net/a9039add29/logo2.png" alt="Caremark" width="170" height="75"></a></div>  <div class="menu_icon" onclick="show_m()"><span class="mb_txt">MENU</span><br><img src="https://a.site-cdn.net/a9039add29/mobile_menu.png" alt="menu" width="43" height="23"></div>  <div class="header_right"><nav id="nav"><div class="hdr_tm_outer do"><div class="hdr_tm"><ul><li class="li_menu_current04 page1 abc"><a href="https://www.caremark.co.uk/" target="_top" class="menu_current04 page1"><span>Home</span></a></li><li class="li_menu_default04 page66"><a href="https://www.caremark.co.uk/caremark-today/caremark-news" target="_top" class="menu_default04 page66"><span>News</span></a></li><li class="li_menu_default04 page64"><a href="https://www.caremark.co.uk/locations" target="_top" class="menu_default04 page64"><span>Contact Us</span></a></li><li class="li_menu_default04 page67"><a href="https://www.caremark.co.uk/care-jobs" target="_top" class="menu_default04 page67"><span>Care Jobs</span></a></li><li class="li_menu_default04 page65"><a href="http://www.caremarkfranchises.com/" target="_blank" class="menu_default04 page65"><span>Franchise</span></a></li></ul></div></div><ul><li class="li_menu_default01 page3"><a href="https://www.caremark.co.uk/care-services" target="_top" class="menu_default01 page3"><span>Home Care Services</span></a><ul><li class="li_menu_default11 first"><a href="https://www.caremark.co.uk/care-services/companionship-care" target="_top" class="menu_default11 page13">Companionship</a></li><li class="li_menu_default11"><a href="https://www.caremark.co.uk/care-services/dementia-and-alzheimers-care" target="_top" class="menu_default11 page51">Dementia &amp; Alzheimer's Care</a></li><li class="li_menu_default11"><a href="https://www.caremark.co.uk/care-services/domestic-duties" target="_top" class="menu_default11 page16">Domestic Duties</a></li><li class="li_menu_default11"><a href="https://www.caremark.co.uk/care-services/healthcare-professional" target="_top" class="menu_default11 page37">Healthcare Professionals</a></li><li class="li_menu_default11"><a href="https://www.caremark.co.uk/care-services/live-in-care" target="_top" class="menu_default11 page10">Live-in Care</a></li><li class="li_menu_default11"><a href="https://www.caremark.co.uk/care-services/medication-assistance" target="_top" class="menu_default11 page14">Medication Assistance</a></li><li class="li_menu_default11"><a href="https://www.caremark.co.uk/care-services/patchcare" target="_top" class="menu_default11 page96">PatchCare</a></li><li class="li_menu_default11"><a href="https://www.caremark.co.uk/care-services/personal-care" target="_top" class="menu_default11 page11">Personal Care</a></li><li class="li_menu_default11"><a href="https://www.caremark.co.uk/care-services/respite-care" target="_top" class="menu_default11 page12">Respite Care</a></li><li class="li_menu_default11"><a href="https://www.caremark.co.uk/care-services/shopping-and-meal-preparation" target="_top" class="menu_default11 page15">Shopping &amp; Meal Preparation</a></li><li class="li_menu_default11 last"><a href="https://www.caremark.co.uk/care-services/social-activities" target="_top" class="menu_default11 page17">Social Activities</a></li></ul></li><li class="li_menu_default01 page4"><a href="https://www.caremark.co.uk/who-we-help" target="_top" class="menu_default01 page4"><span>Who We Help</span></a><ul><li class="li_menu_default11 first"><a href="https://www.caremark.co.uk/who-we-help/adult-care" target="_top" class="menu_default11 page19">Adults</a></li><li class="li_menu_default11"><a href="https://www.caremark.co.uk/who-we-help/children-and-young-people" target="_top" class="menu_default11 page20">Children and Young People</a></li><li class="li_menu_default11"><a href="https://www.caremark.co.uk/who-we-help/elderly-care" target="_top" class="menu_default11 page18">Elderly</a></li><li class="li_menu_default11"><a href="https://www.caremark.co.uk/who-we-help/people-with-learning-disabilities" target="_top" class="menu_default11 page21">People with Learning Disabilities</a></li><li class="li_menu_default11"><a href="https://www.caremark.co.uk/who-we-help/people-with-physical-disabilities" target="_top" class="menu_default11 page22">People with Physical Disabilities</a></li><li class="li_menu_default11"><a href="https://www.caremark.co.uk/who-we-help/end-of-life" target="_top" class="menu_default11 page23">End of Life</a></li><li class="li_menu_default11 last"><a href="https://www.caremark.co.uk/who-we-help/how-do-i-pay" target="_top" class="menu_default11 page5">How Do I Pay?</a></li></ul></li><li class="li_menu_default01 page75"><a href="#" target="_top" class="menu_default01 page75"><span>Care Guides</span></a><ul><li class="li_menu_default11 first"><a href="https://www.caremark.co.uk/care-guides/companionship-care" target="_top" class="menu_default11 page97">Companionship Care</a></li><li class="li_menu_default11"><a href="https://www.caremark.co.uk/care-guides/dementia-and-alzheimers" target="_top" class="menu_default11 page76">Dementia &amp; Alzheimer’s</a></li><li class="li_menu_default11"><a href="https://www.caremark.co.uk/care-guides/domestic-duties" target="_top" class="menu_default11 page99">Domestic Duties</a></li><li class="li_menu_default11"><a href="https://www.caremark.co.uk/care-guides/elderly-care" target="_top" class="menu_default11 page94">Elderly Care</a></li><li class="li_menu_default11"><a href="https://www.caremark.co.uk/care-guides/end-of-life-care" target="_top" class="menu_default11 page91">End of Life care</a></li><li class="li_menu_default11"><a href="https://www.caremark.co.uk/care-guides/live-in-care" target="_top" class="menu_default11 page102">Live-in Care</a></li><li class="li_menu_default11"><a href="https://www.caremark.co.uk/care-guides/personal-care" target="_top" class="menu_default11 page98">Personal Care</a></li><li class="li_menu_default11"><a href="https://www.caremark.co.uk/care-guides/respite-care" target="_top" class="menu_default11 page92">Respite Care</a></li><li class="li_menu_default11 last"><a href="https://www.caremark.co.uk/care-guides/social-activities" target="_top" class="menu_default11 page100">Social Activities</a></li></ul></li><li class="li_menu_default01 page54"><a href="https://www.caremark.co.uk/caremark-today" target="_top" class="menu_default01 page54"><span>Caremark Today</span></a><ul><li class="li_menu_default11 first"><a href="https://www.caremark.co.uk/caremark-today/coronavirus" target="_top" class="menu_default11 page123">Coronavirus</a></li><li class="li_menu_default11"><a href="https://www.caremark.co.uk/caremark-today/about-caremark" target="_top" class="menu_default11 page56">About Caremark</a></li><li class="li_menu_default11"><a href="https://www.caremark.co.uk/caremark-today/company-history" target="_top" class="menu_default11 page55">Company History</a></li><li class="li_menu_default11"><a href="https://www.caremark.co.uk/caremark-today/caremark-news" target="_top" class="menu_default11 page44">Caremark News</a></li><li class="li_menu_default11"><a href="https://www.caremark.co.uk/caremark-today/a-career-with-caremark" target="_top" class="menu_default11 page61">A Career With Caremark</a></li><li class="li_menu_default11"><a href="https://www.caremark.co.uk/caremark-today/training-and-development" target="_top" class="menu_default11 page62">Training and Development</a></li><li class="li_menu_default11 last"><a href="https://www.caremark.co.uk/caremark-today/care-worker-hall-of-fame" target="_top" class="menu_default11 page47">Care Worker Hall of Fame</a></li></ul></li><li class="li_menu_default01 page74"><a href="https://www.caremark.co.uk/blog" target="_top" class="menu_default01 page74"><span>Blog</span></a></li></ul><div class="mo"></div></nav></div><div class="mo"><a href="https://www.caremark.co.uk/care-services" class="ban_btn_1" style="margin:0;box-sizing:border-box; float:left;width:50%;background-color:#fff;color:#5c5c5c;">FIND HOME CARE</a><a href="https://www.caremark.co.uk/care-jobs" class="ban_btn_2" style="box-sizing:border-box; margin:0; float:left;width:50%;clear:none;">FIND CARE JOBS</a></div></div></header><div id="office_strip"><div class="inner"><div class="office_strip_left do"><a href="https://www.facebook.com/caremarkltd/" class="facebook" target="_blank"></a><a href="https://twitter.com/CaremarkLtd" class="twitter" target="_blank"></a><a href="https://www.linkedin.com/company/caremark-ltd" class="linkedin" target="_blank"></a><a href="https://www.instagram.com/caremarkltd/" class="instagram" target="_blank"  ></a><a href="https://www.youtube.com/channel/UCrnXYyWOI1eFt1Nmoyo23Fw" class="youtube" target="_blank"></a></div><div class="office_strip_right"><form action="https://www.caremark.co.uk/locations" method="post" class="fylc">Find your local Caremark office<br class="mo"><input name="po" placeholder="Post Code" value="" type="text"><input class="submit" value="FIND" type="submit"></form></div></div></div><div id="con_fr"><div class="acc_optns_tab"><div class="act_tab"><div class="act_tab_txt">Accessibility Options</div></div><div class="aot_contanier"><div class="aot_heading_icons"><h4>Accessibility Options</h4><a class="ao_touch"></a><a class="ao_vision"></a><a class="ao_hear"></a></div><span>Did you know that most computers have options built into them to make it easier for people with low or no vision to use them.</span><a href="https://www.caremark.co.uk/website-accessibility" class="aot_btn">Click for information</a></div></div><div class="banner parallax-window" data-parallax="scroll" data-image-src="https://b.site-cdn.net/a9039add29/1920-1200-975a0a-ce-6437-homebanner2.jpg"><div class="banner_tint"><div class="banner_inner"><h1>Welcome to Caremark</h1><h2>Professional and personal home care services tailored to your individual needs</h2><a href="https://www.caremark.co.uk/care-services" class="ban_btn_1">&gt; FIND HOME CARE</a><a href="https://www.caremark.co.uk/care-jobs" class="ban_btn_2">&gt; FIND CARE JOBS</a></div></div></div><div class="row clearfix" style="background-color: #00529c;"><div class="spacer ui-resizable"><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div></div></div><div class="row clearfix" style="text-align: center; background-color: #00529c;"><div class="snipf3 column full edit"><h1><span style="color: #ffffff;"><b>COVID-19 Update</b><br></span></h1><h2><span style="color: #ffffff;">Caremark is fully operational and taking extra precautions to keep people safe</span></h2><span style="color: #ffffff;">During the coronavirus (COVID-19) pandemic we are operating a normal service, with all offices open and ready to support new and existing clients who need assistance at home. </span><span style="color: #ffffff;"><br></span><br></div></div><div class="row clearfix" style="text-align: center; background-color: #00529c;"><div style="font-weight: bold" class="snipf4 column full edit"><a class="snp_btn" href="https://www.caremark.co.uk/caremark-today/coronavirus"><b>FIND OUT MORE<b></b></b></a><b><b></b></b></div><b><b></b></b></div><div class="row clearfix" style="background-color: #00529c;"><div class="spacer ui-resizable"><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div></div></div><div class="clearfix"><div class="spacer ui-resizable"><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div></div></div><div class="row clearfix" style="text-align: center;"><div class="snipf3 column full edit"><h1><span style="color: #42474d;">Home care services from the company that cares<br></span></h1><p><span style="color: #42474d;">Our friendly services enables you to remain in the comfort and familiarity of your own home. You will receive regular social care visits and services to suit your personal needs.<br></span></p></div></div><div class="clearfix"><div class="spacer ui-resizable"><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div></div></div><div class="clearfix"><div class="snipf26 column full edit"><div class="snip_5firstcol" style="height: auto;"><img src="https://b.site-cdn.net/a9039add29/180-161-4depme.png" alt="" style="height: 161px;"><b>Over 100 offices<br>across the UK means<br>we’re local to you.</b></div><div class="snip_5col" style="height: auto;"><img src="https://b.site-cdn.net/a9039add29/180-161-vus60u.png" alt="" style="height: 161px;"><b>We are not an agency -<br>we employ every carer<br>directly.</b></div><div class="snip_5col" style="height: auto;"><img src="https://b.site-cdn.net/a9039add29/180-161-3b5la9.png" alt="" style="height: 161px;"><b>Get to know your <br>carer before the <br>care starts.</b></div><div class="snip_5col" style="height: auto;"><img src="https://b.site-cdn.net/a9039add29/180-161-u0n02l.png" alt="" style="height: 161px;"><b>Family run and experts<br>in home care since 1989.</b></div><div class="snip_5col" style="height: auto;"><img src="https://b.site-cdn.net/a9039add29/180-161-zep1ds.png" alt="" style="height: 161px;"><b>Fully flexible care<br>packages as your needs change.</b></div></div></div><div class="clearfix"><div class="spacer ui-resizable"><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div></div></div><div class="row clearfix" style="text-align: center;"><div class="snipf3 column full edit">We understand that when the time comes where someone needs help in the home, it can be daunting. Caremark will help address any worries and answer questions or any concerns you may have. We always consider someone's unique needs and visit at times that suit their lifestyle. This can range from a short morning visit once a week, to 24/7 live in care. Either way, we provide flexible home care to accommodate everyone's unique requirements.<br><br>Caremark are proud of our dedicated home care team, supporting such a wide range of individuals. We provide home care services to adults and older people, those with physical disabilities, learning disabilities, as well as children and young people. We can also provide respite for carers of loved ones in need of a break.<br><br></div></div><div class="clearfix"><div class="spacer ui-resizable"><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div></div></div><div class="clearfix"><div class="snipf20 column full edit"><div id="office_search"><div class="inner"><h2>Find your local Caremark Office</h2> Our friendly service enables you to remain in the familiar surroundings and comfort of your<br> own home, receiving regular social care visits and services to suit your personal needs. <form action="https://www.caremark.co.uk/locations" method="post"><input name="po" placeholder="Enter Your Postcode" value="" type="text"><input class="submit" value="FIND" type="submit"></form></div></div></div></div><div class="row clearfix" style="background-color: #efedea;"><div class="spacer ui-resizable"><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div></div></div><div class="row clearfix" style="background-color: #efedea;"><div class="spacer ui-resizable"><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div></div></div><div class="row clearfix" style="text-align: center; background-color: #efedea;"><div class="column full edit"><h1 style="color: #454545;">Our Care Services</h1></div></div><div class="row clearfix" style="text-align: center; background-color: #efedea;"><div class="snipf3 column full edit"><i>Please <b>click on an image below</b> to see how we can help with home care services.</i></div></div><div class="row clearfix" style="background-color: #efedea;"><div class="spacer ui-resizable"><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div></div></div><div class="row clearfix" style="background-color: #efedea;"><div class="snipf3 column full edit"><br></div></div><div class="row clearfix" style="background-color: #efedea;"><div class="snipf23 column full edit"><div class="snip_3col_nl bru"><a href="https://www.caremark.co.uk/our-care-services/personal-care"><img class="fixed fadeIn" alt="Personal care image with a carer and client" src="https://b.site-cdn.net/a9039add29/261-160-td9zuh.jpg" width="261" height="160"></a><h4 style="color: #42474d;">Personal Care<br></h4></div><div class="snip_3midcol_n bru"><a href="https://www.caremark.co.uk/our-care-services/respite-care"><img alt="Respite care image" src="https://b.site-cdn.net/a9039add29/261-160-78i3i7.jpg" width="261" height="160" class="fadeIn"></a><h4 style="color: #42474d;">Respite Care<br></h4></div><div class="snip_3col_nr bru"><a href="https://www.caremark.co.uk/our-care-services/live-in-care"><img class="fixed fadeIn" alt="Live in Care image" src="https://b.site-cdn.net/a9039add29/261-160-vpypyi.jpg" width="261" height="160"></a><h4 style="color: #42474d;">Live-in care<br></h4></div></div></div><div class="row clearfix" style="background-color: #efedea;"><div class="snipf23 column full edit"><div class="snip_3col_nl bru"><a href="https://www.caremark.co.uk/our-care-services/dementia-and-alzheimers-care"><img class="fixed fadeIn" alt="Dementia Care image" src="https://b.site-cdn.net/a9039add29/261-160-mdknc0.jpg" width="261" height="160"></a><h4 style="color: #42474d;">Dementia Care<br></h4></div><div class="snip_3midcol_n bru"><a href="https://www.caremark.co.uk/our-care-services/companionship"><img class="fixed fadeIn" alt="Companionship care image" src="https://b.site-cdn.net/a9039add29/261-160-yizjhv.jpg" width="261" height="160"></a><h4 style="color: #42474d;">Companionship<br></h4></div><div class="snip_3col_nr bru"><a href="https://www.caremark.co.uk/our-care-services/medication-assistance"><img class="fixed fadeIn" alt="Medical Assistance image" src="https://b.site-cdn.net/a9039add29/261-160-cfrq61.jpg" width="261" height="160"></a><h4 style="color: #42474d;">Medication Assistance<br></h4></div></div></div><div class="row clearfix" style="background-color: #efedea;"><div class="snipf3 column full edit"><br></div></div><div class="row clearfix" style="background-color: #efedea;"><div class="snipf5 column full edit" style="height: auto;"><a class="ocs_btns" href="https://www.caremark.co.uk/our-care-services">SEE OUR FULL RANGE</a></div></div><div class="row clearfix" style="background-color: #efedea;"><div class="snipf3 column full edit"><br><br></div></div><div class="row clearfix" style="background-color: #efedea;"><div class="spacer ui-resizable"><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div></div></div><div class="row clearfix" style="background-color: #359cbd;"><div class="spacer ui-resizable"><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div></div></div><div class="row clearfix" style="background-color: #359cbd;"><div class="spacer ui-resizable"><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div></div></div><div class="row clearfix" style="text-align: center; background-color: #359cbd;"><div class="snipf3 column full edit" style="text-align: center;"><h1 style="color: #ffffff;">Why choose Caremark? <br></h1><h3 style="color: #ffffff;">You’ll always be in safe hands - our&nbsp; services care for over 14,000 clients</h3></div></div><div class="row clearfix" style="background-color: #359cbd;"><div class="spacer ui-resizable"><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div></div></div><div class="row clearfix" style="background-color: #359cbd;"><div class="snipf16 column full edit"><div class="snip_3col" style="height: auto;"><img style="height: 74px;" alt="" src="https://b.site-cdn.net/a9039add29/310-74-1huwbr.png"><h3><span style="color: #ffffff;">Client Led Service</span></h3><span style="color: #ffffff;">We offer a 'meet and greet' service and a full assessment before a care package begins. We make sure we completely understand your care needs.</span><br></div><div class="snip_3midcol" style="height: auto;"><img style="height: 74px;" alt="" src="https://b.site-cdn.net/a9039add29/310-74-7muy1m.png"><h3><span style="color: #ffffff;">Highest Standards</span></h3><span style="color: #ffffff;">Our Care Staff are checked and trained to the highest standards using industry approved training. We continue monitoring staff throughout their work.&nbsp;</span><br></div><div class="snip_3col" style="height: auto;"><img style="height: 74px;" alt="" src="https://b.site-cdn.net/a9039add29/310-74-fsofvx.png"><h3><span style="color: #ffffff;">Quality Assurance</span></h3><span style="color: #ffffff;">Caremark have dedicated internal systems in place monitoring the full care service. This ensures the highest quality care and that your needs are met at all times.</span><br></div></div></div><div class="row clearfix" style="background-color: #359cbd;"><div class="spacer ui-resizable"><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div></div></div><div class="row clearfix" style="background-color: #359cbd;"><div class="snipf16 column full edit"><div class="snip_3col" style="height: auto;"><img style="height: 74px;" alt="" src="https://b.site-cdn.net/a9039add29/310-74-q7zoq5.png"><h3 style="color: #ffffff;">Client Confidentiality<br></h3><span style="color: #ffffff;">Customer information is only shared once your written agreement is in place and always on a 'need to know' basis.</span><br></div><div class="snip_3midcol" style="height: auto;"><img style="height: 74px;" alt="" src="https://b.site-cdn.net/a9039add29/310-74-yb50bd.png"><h3 style="color: #ffffff;">Transparent Culture<br></h3><span style="color: #ffffff;">We have an open door policy so that clients have regular contact with a member of the management team.</span><br></div><div class="snip_3col" style="height: auto;"><img style="height: 74px;" alt="" src="https://b.site-cdn.net/a9039add29/310-74-tbwm7t.png"><h3><span style="color: #ffffff;">Allocation of Carer</span></h3><span style="color: #ffffff;">We allocate a permanent carer during the care and support period so that clients know who is visiting them on a regular basis.</span><br></div></div></div><div class="row clearfix" style="background-color: #359cbd;"><div class="spacer ui-resizable"><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div></div></div><div class="row clearfix" style="background-color: #359cbd;"><div class="spacer ui-resizable"><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div></div></div><div class="row clearfix" style="background-color: #ffffff;"><div class="spacer ui-resizable"><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div></div></div><div class="row clearfix" style="background-color: #ffffff;"><div class="spacer ui-resizable"><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div></div></div><div class="row clearfix" style="text-align: center; background-color: #ffffff;"><div class="snipf3 column full edit"><h1 style="color: #42474d;">Interesting Caremark facts &amp; figures<br></h1></div></div><div class="clearfix"><div class="spacer ui-resizable"><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div></div></div><div class="clearfix"><div class="snipf7 column full edit"><div class="snip_3col_nl" style="height: auto;"><img width="261" height="261" style="height: 261px;" alt="Fact image" src="https://b.site-cdn.net/a9039add29/261-261-h3itfm.png" class="fadeIn"></div><div class="snip_3midcol_n" style="height: auto;"><img width="261" height="261" style="height: 261px;" alt="Fact image" src="https://b.site-cdn.net/a9039add29/261-261-wjms29.png" class="fadeIn"></div><div class="snip_3col_nr" style="height: auto;"><img width="261" height="261" style="height: 261px;" alt="Fact image" src="https://b.site-cdn.net/a9039add29/261-261-tbv2la.png" class="fadeIn"></div></div></div><div class="clearfix"><div class="snipf7 column full edit"><div class="snip_3col_nl" style="height: auto;"><img width="261" height="261" style="height: 261px;" alt="Fact image" src="https://b.site-cdn.net/a9039add29/261-261-mf0uc8.png" class="fadeIn"></div><div class="snip_3midcol_n" style="height: auto;"><img width="261" height="261" style="height: 261px;" alt="Fact image" src="https://b.site-cdn.net/a9039add29/261-261-aag325.png" class="fadeIn"></div><div class="snip_3col_nr" style="height: auto;"><img width="261" height="261" style="height: 261px;" alt="Fact image" src="https://b.site-cdn.net/a9039add29/261-261-umehl8.png" class="fadeIn"></div></div></div><div class="clearfix"><div class="spacer ui-resizable"><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div></div></div><div class="clearfix"><div class="spacer ui-resizable"><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div></div></div><div class="row clearfix parallax-window" data-parallax="scroll" data-natural-width="1920" data-natural-height="840" data-image-src="https://www.caremark.co.uk/files/l8cr3p.jpg"><div class="snipf25 column full edit"><div class="banner_tint"><div class="banner_inner"><h2>Every day, Caremark meet and exceed the personal care requirements and wishes of thousands of customers throughout the UK and Ireland. </h2><a class="snp_btn" href="https://www.caremark.co.uk/locations">CONTACT US TODAY ABOUT HOME CARE </a></div></div></div></div><div class="column full edit local_news"><div class="news_summary"><img data-original="https://b.site-cdn.net/a9039add29/225-200-0144d1-ce-6195-caremark-hillingdon-2022-39.jpg" width="225" height="200" class="lload news_img" alt=""><div class="news_right_content"><h4>12 Jul 2022</h4><h2><a href="https://www.caremark.co.uk/caremark-today/caremark-news/seven-tips-to-get-your-career-in-care-soaring">Seven Tips To Get Your Career In Care Soaring</a></h2>What is your next step? You have the potential to grow your career so why not start now!<br><a href="https://www.caremark.co.uk/caremark-today/caremark-news/seven-tips-to-get-your-career-in-care-soaring" class="snp_btn">READ THE FULL ARTICLE</a></div></div></div><div class="news_twitter">    <div class="mailing_list"><div class="inner"><div id="ns_sign_error"> Please tick the box before subscribing </div><div class="ml_jml"><div class="jml">Subscribe for News &amp; Updates</div><form name="ns_signup" id="ns_signup" method="post"><div><input placeholder="" type="text" value="" name="ns_email" id="ns_email" class="signup_f"><a onclick="ns_sign()" class="ns_btn">SIGN UP</a></div><div id="ns_ticks"><div><input id="sub_chk_1" class="field_checkbox" type="checkbox"><label class="checkbox_label ns_cl" for="sub_chk_1">Yes, I would like to hear from you about your services, news and updates</label></div><div style="display:none"><input id="sub_chk_2" class="field_checkbox" type="checkbox"><label class="checkbox_label" for="sub_chk_2">Yes, I agree to your terms &amp; conditions</label></div></div></form><div id="ns_success" style="display:none;">Thank you for subscribing</div></div><div class="btt_btn">TOP OF PAGE</div></div></div></div><footer id="footer"><div class="inner"><div class="footer_left vcard"><a href="https://www.caremark.co.uk/"><img src="https://a.site-cdn.net/a9039add29/logons.png" alt="Caremark" width="170" height="66"></a><span class="office_name fn org"></span><span class="office_number tel"></span><br><span class="office_address adr"><span class="street-address"></span><span class="locality"></span><span class="region"></span>&nbsp;<span class="postal-code"></span></span><br><span class="office_email"><a class="email" href="mailto:"></a></span><br></div><div class="footer_right"> Find another office<br><form method="post" action="https://www.caremark.co.uk/locations"><input name="fa" type="hidden" value="1"><input name="po" placeholder="ENTER YOUR POST CODE" type="text" value="" class="footer_post_code"><br><input class="footer_office_search" value="FIND NOW >" type="submit"></form></div></div><div class="footer_strip"><div class="fs_social"><a href="https://www.facebook.com/caremarkltd/" class="facebook" target="_blank"></a><a href="https://twitter.com/CaremarkLtd" class="twitter" target="_blank"></a><a href="https://www.linkedin.com/company/caremark-ltd" class="linkedin" target="_blank"></a><a href="https://www.instagram.com/caremarkltd/" class="instagram" target="_blank"></a><a href="https://www.youtube.com/channel/UCrnXYyWOI1eFt1Nmoyo23Fw" class="youtube" target="_blank"></a></div><div class="fs_txt"><nav id="nav_f"><a href="https://www.caremark.co.uk/website-accessibility" target="_top" class="menu_default02 page68 first20 rpa680"><span>Accessibility</span></a><a href="https://www.caremark.co.uk/sitemap" target="_top" class="menu_default02 page32 rpa320"><span>Sitemap</span></a><a href="http://www.caremarkfranchises.com/" target="_blank" class="menu_default02 page42 rpa420"><span>Franchise Opportunities</span></a><a href="https://www.caremark.co.uk/privacy-policy" target="_top" class="menu_default02 page72 rpa720"><span>Privacy Policy</span></a><div style="padding-top:20px;padding-bottom:20px;"><a href="http://d.site-cdn.net/a9039add29/gender-pay-gap-report-2021.pdf" target="_black" class="menu_default02 first20"><span> Gender Pay Gap 2021</span></a></div></nav><span>© 2022 Caremark Limited. All Rights Reserved.<br>Each Caremark Limited franchise office is independently owned and operated.</span></div></div></footer><link href="https://a.site-cdn.net/a9039add29/24de9ef4096d.css" property="stylesheet" rel="stylesheet" type="text/css"><script src="https://a.site-cdn.net/a9039add29/24de9ef4096d.js"></script><meta name="facebook-domain-verification" content="dbzgzjp2zsyh666y9jd6xb73cdsy4z"><span title="LT-0.1328"></span><style>.page7 { display:none;}</style></div><script type="text/javascript" id="">google_tag_manager["GTM-P4RH2NZ"].macro(9)("gtm_isp_lookup",!0,void 0,"/",google_tag_manager["GTM-P4RH2NZ"].macro(10));</script>
+</body>
+
+
+
+<?php namespace App\Models;
+
+use CodeIgniter\Model;
+
+class appointmentsModel extends Model{
+  protected $table = 'appointments';
+  protected $primaryKey="appointment_id";
+  protected $allowedFields = [
+      'first_name', 
+      'last_name', 
+      'email',
+      'phone',
+      'date_scheduled',
+      'gender',
+      'appointment_reason',
+      'hospital',
+      'patient_id',
+      'appointment_id'
+      
+     
+        
+
+
+        
+     ];
+
+    
+    
+  
+  
+ 
+}
+  ?>
+
+  <!DOCTYPE html>
+<html>
+<head>
+
+	<title>Appointments</title>
+	<link rel="stylesheet" type="text/css" href="/assets/css/productsdisplay.css">
+  <link href='https://fonts.googleapis.com/css?family=Abel' rel='stylesheet'>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="/assets/css/bootstrap.css">
+        <script src="https://cdn.jsdelivr.net/npm/jquery-validation@1.19.3/dist/jquery.validate.js"></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" />
+        <script src="/assets/js/jquery-3.6.0.min.js"></script>
+       <script src="/assets/js/popper.min.js"></script>
+       <script src="/assets/bootstrap.min.js"></script>
+       <link rel="stylesheet" href="/assets/css/dashboard.css">
+       <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
+    <style>
+      #myInput {
+        
+ 
+  background-position: 10px 12px; 
+  background-repeat: no-repeat; 
+  width: 50%; 
+  font-size: 16px; 
+  padding: 12px 20px 12px 40px; 
+  border: 1px solid #ddd;
+  margin-bottom: 12px; 
+}
+
+#myUL {
+  
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+#myUL li a {
+  border: 1px solid #ddd; 
+  margin-top: -1px;
+  background-color: #f6f6f6; 
+  padding: 12px; 
+  text-decoration: none;
+  font-size: 18px; 
+  color: black;
+  display: block; 
+}
+
+#myUL li a:hover:not(.header) {
+  background-color: #eee;
+}
+.profile-details{
+		float:right;
+  display: flex;
+  align-items: center;
+  background: #F5F6FA;
+  border: 2px solid #EFEEF1;
+  border-radius: 6px;
+  height: 50px;
+  min-width: 190px;
+  padding: 0 15px 0 2px;
+}
+     
+.profile-details img{
+  height: 40px;
+  width: 40px;
+  border-radius: 6px;
+  object-fit: cover;
+}
+.profile-details .admin_name{
+  font-size: 15px;
+  font-weight: 500;
+  color: #333;
+  margin: 0 10px;
+  white-space: nowrap;
+}
+.profile-details i{
+  font-size: 25px;
+  color: #333;
+}
+     
+        
+        .side-icons {
+          cursor:pointer;
+  position: absolute;
+  right: 0;
+  /top: 30%;/
+  transform: translate(-200%, -300%);
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+  transition: all 500ms ease-in-out;
+}
+.side-icons span:hover {
+
+  background-color: var(--primary);
+  color: var(--white);
+}
+
+        h1, h4{
+    font-weight:bold;
+    text-transform:capitalize;
+    font-family: 'Raleway', cursive;
+}
+.addCart {
+  cursor:pointer;
+  position: absolute;
+ right:0px;
+  background-color: white;
+  color:black;
+  border-radius: 50%;
+  padding: 1.3rem 1.6rem;
+  box-shadow: 0 0.5rem 1.5rem rgba(0, 0, 0, 0.1);
+  transition: all 300ms ease-in-out;
+}
+.header{
+  background-image:url(/assets/Images/prod.jpg);
+}
+.addCart:hover {
+  background-color: lightblue;
+  color: var(--white);
+ 
+}
+.description{
+  font-family: 'Abel';font-size: 20px;
+  font-style:italic;
+}
+i{
+  cursor:pointer;
+}
+
+
+
+
+      
+    </style>
+  
+		      
+</head>
+<body>
+<div class="sidebar">
+    <div class="logo-details">
+      <i class='bx bxl-h-plus-plus'></i>
+      <span class="logo_name">HOPITAL</span>
+    </div>
+      <ul class="nav-links">
+        <li>
+          <a href="doctor">
+            <i class='bx bx-grid-alt' ></i>
+            <span class="links_name">Dashboard</span>
+          </a>
+        </li>
+       
+        <li>
+          <a href="schedule">
+            <i class='bx bx-box' ></i>
+            <span class="links_name">Schedule</span>
+          </a>
+        </li>
+        <li>
+          <a href="#"class="active">
+            <i class='bx bx-pie-chart-alt-2' ></i>
+            <span class="links_name">
+
+            Appointments</span>
+          </a>
+        </li>
+        <li>
+          <a href="doctors_add">
+            <i class='bx bx-list-ul' ></i>
+            <span class="links_name">Patients</span>
+          </a>
+        </li>
+       
+       
+       
+        <li>
+          <a href="#">
+            <i class='bx bx-message' ></i>
+            <span class="links_name">Messages</span>
+          </a>
+        </li>
+        
+       
+   
+      </ul>
+  </div>
+<div class="profile-details">
+        <img src="/assets/Images/avatar.png" alt="">
+        <span class="admin_name"><?= session()->get('first_name') ?>&nbsp;<?= session()->get('last_name') ?></span>
+        <i class='bx bx-chevron-down' ></i>
+		<a href="<?=base_url('Users/logout')?>" class="btn btn-primary btn-sm float-end" style="right:0;">Logout</a>
+    </div>
+    
+
+    <div style="margin-left:280px;" class="container mt-4">
+        <div class="row">
+
+      
+           <div class="col-md-12">
+                <h1>Appointments </h1>
+               <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for patient by name..">&nbsp; <i class="fas fa-search"></i>
+                
+
+  
+    <div class="card">
+                      
+    <div class="card-body">
+    <table id="myTable" class="table table-bordered">
+  <thead>
+       <tr>
+      
+    <th>First name</th>   
+   
+  <th>Last name</th>   
+ <th>Email</th>
+    <th>Appointment reason</th>
+    <th>Date scheduled</th>
+    <th>Gender</th>
+    <th>Status</th>
+    <th>Action</th>
+
+</tr>
+
+</thead>
+<tbody>
+  <tr>
+<?php  
+
+  $rows=$appointments;
+  ?>
+ 
+<?php foreach ($rows as $row): ?>
+  
+  <?php foreach ($row as $key=>$value): {
+    
+  
+    //if($key=='home_image'){?>
+   
+   
+      
+    <!--<td><img src=" "../uploads/".$value; ?>" width="250px" height="250px"></td>!-->
+   
+<?php
+
+    }
+    if($key=='user_id')
+    {?>
+      
+      <td>
+          <div>
+          <a href="<?= site_url('appointments/approve/'.$value)?>"><button class='btn-success btn-sm' >Accept</button></a>
+      <a href="<?= site_url('appointments/reject/'.$value)?>"><button class='btn-danger btn-sm' >Reject</button></a>
+    </div>
+</td>
+
+    
+    <?php
+  }
+    else{
+      ?><td><?php
+      echo $value;
+      ?>
+      
+    </td>
+      <?php
+    }
+  
+
+   
+  
+    
+?>
+ 
+
+<?php endforeach;?>
+</tr>
+<?php endforeach;?>
+ 
+</tbody>
+</table>
+</br>
+
+ 
+  
+
+
+              
+    </body>
+    <script>
+function myFunction() {
+ 
+  var input, filter, table, tr, td, i, txtValue;
+  input = document.getElementById("myInput");
+  filter = input.value.toUpperCase();
+  table = document.getElementById("myTable");
+  tr = table.getElementsByTagName("tr");
+
+ 
+  for (i = 0; i < tr.length; i++) {
+    td = tr[i].getElementsByTagName("td")[0];
+    if (td) {
+      txtValue = td.textContent || td.innerText;
+      if (txtValue.toUpperCase().indexOf(filter) > -1) {
+        tr[i].style.display = "";
+      } else {
+        tr[i].style.display = "none";
+      }
+    }
+  }
+}
+</script>
+ 
+    </html>
+
+
+
+    <?php
+ 
+namespace App\Controllers;
+//use App\Models\seller_homes;
+use App\Models\appointmentsModel;
+
+ 
+ 
+class appointments extends BaseController {
+    private $db;
+
+
+public function __construct()
+{
+  $this->db = db_connect();
+}
+public function index(){
+   $builder = $this->db->table("appointments as appointments");
+ 
+ $builder->select('appointments.first_name, appointments.last_name, appointments.email,appointments.appointment_reason, appointments.date_scheduled, appointments.gender');
+ //$builder->select('seller_homes.home_image', 'seller_homes.address, seller_homes.patient_id');
+ $builder->select('appointments.status');
+ $builder->select('users.user_id');
+ 
+  
+   //$builder->join('seller_homes as seller_homes', 'seller_homes.patient_id = appointments.patient_id');
+   $builder->join('users as users', 'appointments.patient_id = users.user_id');
+  
+   $data['appointments'] = $builder->get()->getResult();
+
+
+   return view('doctor/appointments/index', $data);
+   //$array = json_decode(json_encode($data), true);
+  //echo "<pre>";
+  
+  //print_r($data);
+
+}
+public function approve($patient_id){
+    $conn = mysqli_connect('localhost','root','','hospital');
+    $builder = $this->db->table("appointments as appointments");
+    $builder->select('appointments.first_name, appointments.last_name, appointments.email,appointments.appointment_reason, appointments.date_scheduled, appointments.gender','appointments.patient_id');
+    $data['appointments'] = $builder->get()->getResult();
+
+	$add_to_db = mysqli_query($conn,"UPDATE appointments SET status='Accepted' WHERE patient_id=$patient_id");
+
+				if($add_to_db){	
+					return redirect()->to('appointments')->with('status','Appointment added successfully');
+				}
+				else{
+					echo "Query Error : " . "UPDATE appointments SET status='Accepted' WHERE patient_id=$patient_id" . "<br>" . mysqli_error($conn);
+				}
+	
+
+	ini_set('display_errors', true);
+	error_reporting(E_ALL);  
+}
+public function reject($patient_id){
+    $conn = mysqli_connect('localhost','root','','hospital');
+    $builder = $this->db->table("appointments as appointments");
+    $builder->select('appointments.first_name, appointments.last_name, appointments.email,appointments.status, appointments.date_scheduled, appointments.gender','appointments.patient_id');
+    $data['appointments'] = $builder->get()->getResult();
+
+	$add_to_db = mysqli_query($conn,"UPDATE appointments SET status='Rejected' WHERE patient_id=$patient_id");
+
+				if($add_to_db){	
+					return redirect()->to('appointments')->with('status','Home added successfully');
+				}
+				else{
+					echo "Query Error : " . "UPDATE appointments SET status='Rejected' WHERE patient_id=$patient_id" . "<br>" . mysqli_error($conn);
+				}
+	
+
+	ini_set('display_errors', true);
+	error_reporting(E_ALL);  
+}
+}
+
+
+
+
+
+
+
+
+

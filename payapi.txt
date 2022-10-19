@@ -1,0 +1,11 @@
+Mpesa Consumer key: g37Nj6tKHMAcFqWSkO1Esj9KyPTxUNA
+Consumer Secret: uKsJvpEHH3ZByYD5
+Security Credential(Sandbox): hONck18jX4oSV7PkfgAhwMw0RqO0LxdmYvm0CG1DKU1HdeBEqVm04TXwonWiq7oFUNaYHRAZlFmnf9OdjPJEWQPkoDFm7foaF9qGMHsdEZX6HBQYzSMtAX89TXUoLsr3dtmptikfNPr4QRcVD5HTYX8ZQsSTCFZj/9I9bqlhDixNioVBTpZdgiAj2h5X2AxH+5HEVsFHAoRv7aF0HcWpTLbaz64e/L2UvSfbVIIhJIjzlRYzRyMkeM9Xrs5hCq+g+sY+pPOGRfUE0FGSiPvS74C86HKNpUKU+ok/Dg5IAgyJ+EW7CaOBGfw8Jmd8vOtoqq4KH/dOyTEO2QrIMcacQQ==
+Security Credential(Production):PaMnGrq64dQD4/4DjsPG1d0WHTBJYEoaWYzTiYee+qj00vxhOfEBSbIlPIc3FAQGHQgYw9WyWYqHgxROk4FusHMJxypNM33RVoEGRsIgWdK4Xkf2R+0ofi1XnjcEvFfIXpX7oVZ6Kov5ODLcWbUEApm3CLHT4c0VwsVBk9aGS0vphUrvzETgWY6TexTYhx87WzjHGBb57dssE025vd2DEw1+6bAKddAJMQ/bPZX3LQ8DAEvjMfu7eOQN0e1gen84gce2hrOceHroOuvWOADLPO5gT8d+xUcSWQmeqCy3uhkAbIqCmshxWlC6FTLWEPeNDAMmFkZcdYnBsOANdy6yeQ==
+$ch = curl_init('https://sandbox.safaricom.co.ke/oauth/v1/generate?grant_type=client_credentials');
+curl_setopt($ch, CURLOPT_HTTPHEADER, [
+  'Authorization: Basic ' . base64_encode('YOUR_APP_CONSUMER_KEY:YOUR_APP_CONSUMER_SECRET')
+]);
+curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+$response = curl_exec($ch);
+echo json_decode($response);

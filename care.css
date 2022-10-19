@@ -1,0 +1,101 @@
+
+.regform , form,#form2{
+    border: solid black 2px;  
+    width:50%;  
+    border-radius: 15px;  
+    margin: 120px auto;  
+    background: rgb(245, 243, 243);  
+    padding: 50px;
+
+
+}
+body{   
+    background: #eee;  
+    
+    
+}  
+.btn{
+    margin-top: 15px; 
+}
+h1{
+    text-align: center;
+}
+li{
+    list-style-type: none;
+    list-style-position: outside;
+    float: left;
+    padding: 14px 16px;
+    text-align: center;
+}
+
+.class1 li{
+    list-style-type: none;
+    text-align: right;
+    position: top;
+    color: whitesmoke;
+    font-size: 30px;
+    
+   /* overflow: hidden;
+    border: none;
+    box-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+    transform: scale(1.01); */
+    
+}
+#logo{
+    border-radius: 100%;
+    width: 50px;
+  }
+
+  footer{
+    background-color:gainsboro;
+    
+  }
+  
+  #list1 {
+    text-align: left;
+    list-style-type:none;
+  }
+  #list2{
+    text-align: center;
+    list-style-type:none;
+  }
+  #list3{
+   text-align: right;
+   list-style-type:none;
+  }
+
+  p{
+    font-size: 20pt;
+    font-family: monospace;
+    
+    font-style: italic;
+    color:whitesmoke;
+    text-align: center;
+  }
+
+  .subscribe{
+    float: initial;
+  }
+  .subscribe p{
+    text-align: left;
+    font-size: 13pt;
+    color: darkblue;
+    
+  
+  }
+  #subscribe{
+    width: 500px;
+    height: 40px;
+    border-style: hidden;
+    background-color: cornsilk;
+    border-radius: 5px 0px 0px 5px;
+    
+    
+  }
+
+
+
+
+
+  * {box-sizing:border-box;}
+

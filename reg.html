@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration Page</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/2.0.4/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+	<style>
+		body{
+				background-image: url('../Careview/images/healthcare.jpg');
+				/*  http://getwallpapers.com/wallpaper/full/a/5/d/544750.jpg */
+				background-size: cover;
+				background-repeat: no-repeat;
+				
+				height: 100%;
+				font-family: 'Numans', sans-serif;
+			}
+		.container{
+			margin-top: 100px;
+			
+		}
+		.form-control{
+			margin-bottom: 10px;
+		}
+		.form-group{
+			margin-bottom: 10px;
+		}
+		.btn{
+			margin-top: 10px;
+		}
+		.error{
+			color: red;
+		}
+	</style>
+    <div class="container" >
+        
+		<div class="modal fade in" id="myModal3" tabindex="-1" role="dialog" aria-hidden="false" style="display: block;">
+			<div class="modal-dialog modal-sm">
+				<!-- Modal content-->
+				<div class="modal-content">
+					<div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal"></button>
+					</div>
+					<div class="modal-body modal-body-sub_agile">
+						<h3 class="" style="text-align: center;">Client Registration</h3>
+						<div class="col-md-12 modal_body_left modal_body_left1">
+							 <img id="profile-img" class="profile-img-card" src="careviewlogo.png">	
+							<p id="profile-name" class="profile-name-card" style="font-size:20px;text-align:left;margin-bottom: 10px;">Sign Up Now</p>	
+							<div class="wrap-box"></div>
+                           
+							<form action="http://localhost/careview/register.php" method="post">
+								<div class="styled-input agile-styled-input-top">
+								<label for="inputName"><span class="required_info" style="font-size: 12px; font-style: italic; color: red;">*</span>&nbsp;First Name
+									</label>
+									<input type="text" name="first_name" required="" class="form-control" placeholder="Enter First Name">
+									<br>
+								</div>
+
+								<div class="styled-input agile-styled-input-top">
+									
+									<label for="inputName"><span class="required_info" style="font-size: 12px; font-style: italic; color: red;">*</span>&nbsp;Last Name
+									</label>
+									
+									<input type="text" name="last_name" required="" class="form-control" placeholder="Enter Last Name">
+									<br>
+								</div>
+
+								<div class="styled-input agile-styled-input-top">
+									<label for="inputName"><span class="required_info" style="font-size: 12px; font-style: italic; color: red;">*</span>&nbsp;Mobile No.
+										&nbsp;&nbsp;<span style="font-size: 9px; font-style: italic; color: red;">(* Enter without Dial Code)</span>
+									</label>
+									<input type="text" name="phone_number" id="phno" required="" class="form-control" placeholder="Enter Mobile no." onkeyup="this.value=this.value.replace(/\D/g,'')" maxlength="10">
+									<br>
+								</div>
+
+								<div class="styled-input">
+									
+									<label for="inputName"><span class="required_info" style="font-size: 12px; font-style: italic; color: red;">*</span>&nbsp;Email ID
+									</label>
+									
+									<input type="email" name="email" id="userEmailId" required="" class="form-control" placeholder="Enter Email ID">
+									<br>
+								</div>
+                                <div class="styled-input">
+									
+									<label for="inputName"><span class="required_info" style="font-size: 12px; font-style: italic; color: red;">*</span>&nbsp;Password
+									</label>
+									
+									<input type="password" name="password" id="userEmailId" required="" class="form-control" placeholder="">
+									<br>
+								</div>
+                                <div class="styled-input">
+									
+									<label for="inputName"><span class="required_info" style="font-size: 12px; font-style: italic; color: red;">*</span>&nbsp;Age
+									</label>
+									
+									<input type="number" name="age" id="age" required="" class="form-control" placeholder="Enter your age">
+									<br>
+								</div>
+                                <div class="styled-input">
+									
+									<label for="inputName"><span class="required_info" style="font-size: 12px; font-style: italic; color: red;">*</span>&nbsp;Address
+									</label>
+									
+									<input type="text" name="address" id="userAddress" required="" class="form-control" placeholder="Enter an address">
+									<br>
+								</div>
+                                <div class="styled-input">
+									
+									<label for="inputName"><span class="required_info" style="font-size: 12px; font-style: italic; color: red;">*</span>&nbsp;Gender
+									</label>
+									
+									<input type="text" name="gender" id="userGender" required="" class="form-control" placeholder="Enter ur gender">
+									<br>
+								</div>
+
+								<input type="submit" value="Register" class="btn btn-warning" style="background-color:#0aabeb;color:#fff;">
+								
+								
+								<input type="hidden" class="form-control" name="Country" id="Country" value="">
+								<input type="hidden" name="Company_id" id="Company_id" value="3">
+								<br>
+								<span style="font-size: 12px; font-style: italic; color: red;float: right;">(* Required Fields)</span>
+							</form>
+	
+							<div class="clearfix"></div>
+						</div>
+
+						<div class="clearfix"></div>
+					</div>
+				</div>
+				<!-- //Modal content-->
+			</div>
+</body>
+</html>
